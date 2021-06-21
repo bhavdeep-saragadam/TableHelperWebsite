@@ -1,0 +1,30 @@
+body {
+    background-color: ghostwhite;
+}
+
+#header {
+    text-align: center;
+    font-family: 'KoHo', sans-serif;
+}
+
+#tableview {
+    color: crimson;
+    font-family: 'KoHo', sans-serif;
+    font-size: 100px;
+    left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+
+h3 {
+    position: relative;
+    top: 400px;
+    text-align: center;
+    font-family: 'KoHo', sans-serif;
+    color: crimson;
+    
+}
